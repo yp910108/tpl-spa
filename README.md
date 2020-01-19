@@ -1,2 +1,3 @@
 # tpl-spa
-但页面模板
+
+webpack 模板单页面

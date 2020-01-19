@@ -1,0 +1,11 @@
+{
+  "name": "tpl-spa",
+  "version": "0.0.5",
+  "description": "the template generator for yp",
+  "main": "index.js",
+  "author": "yuanpeng",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^4.4.0"
+  }
+}
